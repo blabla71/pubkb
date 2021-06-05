@@ -41,6 +41,6 @@
 **** block
 **** br
 **** br\_if - identical
-**** br_table
+**** br\_table
 ****
 * Linear Memory
