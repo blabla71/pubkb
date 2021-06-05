@@ -17,7 +17,7 @@
 *** WebAssembly is a stack machine
 **** i.e, most of the instructions assume that the operands are sitting on the stack, rather than stored in specified registers
 *** the WebAssembly stack is a LIFO stack
-**
+*** there are a number of advantages to a stack machine that made it appealing choice for WebAssembly: their small binary size, efficient instruction coding and ease of portability
 ** Data Types
 ** Control Flow
 ** Linear Memory
