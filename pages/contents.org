@@ -6,7 +6,6 @@
 ***
 * Tools/Concepts
 :PROPERTIES:
-:collapsed: true
 :END:
 **
 **
