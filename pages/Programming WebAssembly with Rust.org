@@ -26,7 +26,12 @@
 ** WASM control flow is accomplished the same way everything else is within a stack machine - by pushing things onto, and popping things off of, the stack
 ** example of an if statement
 *** #+BEGIN_SRC 
+:PROPERTIES:
+:collapsed: true
+:END:
 (if (i32.eq (call $getHealth) (i32.const 0))
-       )
+      (then (call $doDeath)) 
+      (else  (call $stillAlive))
+)
 *** #+END_SRC
 * Linear Memory
