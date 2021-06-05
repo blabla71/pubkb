@@ -7,8 +7,6 @@
 * Tools/Concepts
 :PROPERTIES:
 :END:
-**
-**
 * Resources
 :PROPERTIES:
 :END:
