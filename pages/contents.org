@@ -14,7 +14,6 @@
 ** Programming WebAssembly with Rust
 *** Introduction
 :PROPERTIES:
-:collapsed: true
 :END:
 **** with webassembly there is a symbiotic relationship between the compiled WebAssembly binary(called a module) and the host responsible for interpreting it
 ***** this relationship is at the heart of everything that you can do with this new technology and understanding where the boundaries are between module and host is key to being able to build effective WebAssembly applications.
