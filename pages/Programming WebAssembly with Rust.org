@@ -25,8 +25,7 @@
 * Control Flow
 ** WASM control flow is accomplished the same way everything else is within a stack machine - by pushing things onto, and popping things off of, the stack
 ** example of an if statement
-***
-#+BEGIN_SRC 
-
-#+END_SRC
+*** #+BEGIN_SRC
+(if )
+*** #+END_SRC
 * Linear Memory
