@@ -35,12 +35,14 @@
 )
 *** #+END_SRC
 *** avaliable control flow instructions in WebAssembly
-**** if
-**** else
-**** loop
+**** if - marks the beginning of an branching instruction
+**** else - marks the else block of an if instruction
+**** loop - a labeled
 **** block
 **** br
 **** br\_if - identical
 **** br\_table
-****
+**** return
+**** end
+**** nop
 * Linear Memory
