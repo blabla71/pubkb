@@ -34,4 +34,11 @@
       (else  (call $stillAlive))
 )
 *** #+END_SRC
+*** avaliable control flow instructions in WebAssembly
+**** if
+**** else
+**** loop
+**** block
+**** br
+**** br_if
 * Linear Memory
