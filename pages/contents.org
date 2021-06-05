@@ -23,6 +23,9 @@
 **** WASM is designed to be portable | WebAssembly is a portable binary instruction format
 **** This is very similar to the original intent behind Java's bytecode and the .NET framework
 *** Understanding WebAssembly Architecture
+:PROPERTIES:
+:collapsed: true
+:END:
 **** it's unique architecture makes it incredibly powerful, portable and efficient
 **** Stack Machines
 ***** Laptops, desktops, mobile devices, virtual machines, even microcontrollers and embedded devices are register machines
