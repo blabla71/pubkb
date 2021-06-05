@@ -49,3 +49,5 @@
 ***** end - marks the end of a block, loop, if or a function
 **** nop - an operation does nothing
 * Linear Memory
+** Memory do not get allocated at the object level because there are no objects
+**
