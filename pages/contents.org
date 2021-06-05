@@ -1,6 +1,7 @@
 * Tools/Concepts
 ** Emacs
 ** Concurrency
+** Garbage Collection
 * Resources
 :PROPERTIES:
 :END:
