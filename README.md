@@ -1,2 +1,2 @@
-# CSKB
+# CSKB 🧠
 Computer Science Knowledge Base
