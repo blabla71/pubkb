@@ -26,6 +26,7 @@
 ** WASM control flow is accomplished the same way everything else is within a stack machine - by pushing things onto, and popping things off of, the stack
 ** example of an if statement
 *** #+BEGIN_SRC
-(if )
+(if (i32.eq (call $getHealth) (i32.const 0))
+)
 *** #+END_SRC
 * Linear Memory
