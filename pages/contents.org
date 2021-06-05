@@ -11,4 +11,7 @@
 **
 **
 * Resources
-**
+:PROPERTIES:
+:collapsed: true
+:END:
+** [[Programming WebAssembly with Rust]]
