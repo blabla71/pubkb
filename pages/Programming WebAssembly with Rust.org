@@ -21,5 +21,6 @@
 *** there are a number of advantages to a stack machine that made it appealing choice for WebAssembly: their small binary size, efficient instruction coding and ease of portability
 *** JVM and the bytecode executor for the .NEW Common Language Runtime are other fairly well-known stack machines
 * Data Types
+** Assembly languages are made up of primitives that can be used as building blocks by higher level languages
 * Control Flow
 * Linear Memory
