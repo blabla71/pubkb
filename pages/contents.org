@@ -1,4 +1,8 @@
 * Languages
+:PROPERTIES:
+:collapsed: true
+:END:
 ** Rust
 ***
 * Tools/Concepts
+**
