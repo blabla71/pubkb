@@ -1,6 +1,6 @@
 * Tools/Concepts
-:PROPERTIES:
-:END:
+** Emacs
+**
 * Resources
 :PROPERTIES:
 :END:
