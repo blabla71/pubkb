@@ -41,8 +41,8 @@
 **** block - a sequence of instructions, often used within expressions
 **** br - branch to the given label in a containing instruction or block
 **** br\_if - identical to a branch, but with a prerequisite condition
-**** br\_table - branches
-**** return
-**** end
-**** nop
+**** br\_table - branches, but instead of a label, it jumps to a function index in a table
+**** return - return as a value from the instruction
+***** end - marks the end of a block, loop, if or a function
+**** nop - an operation does nothing
 * Linear Memory
