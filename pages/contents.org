@@ -22,4 +22,9 @@
 **** you could write loosely coupled business logic that flows between servers, services, clients and browsers
 **** WASM is designed to be portable | WebAssembly is a portable binary instruction format
 **** This is very similar to the original intent behind Java's bytecode and the .NET framework
-***
+*** Understanding WebAssembly Architecture
+**** it's unique architecture makes it incredibly powerful, portable and efficient
+**** Stack Machines
+**** Data Types
+**** Control Flow
+**** Linear Memory
