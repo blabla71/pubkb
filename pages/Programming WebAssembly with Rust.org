@@ -37,10 +37,10 @@
 *** avaliable control flow instructions in WebAssembly
 **** if - marks the beginning of an branching instruction
 **** else - marks the else block of an if instruction
-**** loop - a labeled
-**** block
-**** br
-**** br\_if - identical
+**** loop - a labeled block used to create loops
+**** block - a sequence of instructions, often used within expressions
+**** br - branch to the given label in a containing instruction or b
+**** br\_if - identical -
 **** br\_table
 **** return
 **** end
