@@ -27,7 +27,9 @@
 **** Stack Machines
 ***** Laptops, desktops, mobile devices, virtual machines, even microcontrollers and embedded devices are register machines
 ***** WebAssembly is a stack machine
-******
+****** i.e, most of the instructions assume that the operands are sitting on the stack, rather than stored in specified registers
+***** the WebAssembly stack is a LIFO stack
+*****
 **** Data Types
 **** Control Flow
 **** Linear Memory
