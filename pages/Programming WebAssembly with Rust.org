@@ -40,7 +40,7 @@
 **** loop
 **** block
 **** br
-**** br_if - identical
+**** br\_if - identical
 **** br_table
 ****
 * Linear Memory
