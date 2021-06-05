@@ -1,0 +1,24 @@
+* Introduction
+:PROPERTIES:
+:collapsed: true
+:END:
+** with webassembly there is a symbiotic relationship between the compiled WebAssembly binary(called a module) and the host responsible for interpreting it
+*** this relationship is at the heart of everything that you can do with this new technology and understanding where the boundaries are between module and host is key to being able to build effective WebAssembly applications.
+** WebAssembly can be view at two different levels - the raw, foundational level and at the higher level of other programming languages using WebAssembly as a target
+** you could write loosely coupled business logic that flows between servers, services, clients and browsers
+** WASM is designed to be portable | WebAssembly is a portable binary instruction format
+** This is very similar to the original intent behind Java's bytecode and the .NET framework
+* Understanding WebAssembly Architecture
+:PROPERTIES:
+:collapsed: true
+:END:
+** it's unique architecture makes it incredibly powerful, portable and efficient
+** Stack Machines
+** Laptops, desktops, mobile devices, virtual machines, even microcontrollers and embedded devices are register machines
+** WebAssembly is a stack machine
+*** i.e, most of the instructions assume that the operands are sitting on the stack, rather than stored in specified registers
+** the WebAssembly stack is a LIFO stack
+**
+** Data Types
+** Control Flow
+** Linear Memory
