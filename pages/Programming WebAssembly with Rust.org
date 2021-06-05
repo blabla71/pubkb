@@ -35,6 +35,9 @@
 )
 *** #+END_SRC
 *** avaliable control flow instructions in WebAssembly
+:PROPERTIES:
+:collapsed: true
+:END:
 **** if - marks the beginning of an branching instruction
 **** else - marks the else block of an if instruction
 **** loop - a labeled block used to create loops
