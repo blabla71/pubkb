@@ -50,4 +50,6 @@
 **** nop - an operation does nothing
 * Linear Memory
 ** Memory do not get allocated at the object level because there are no objects
-**
+** There is also no garbage collection
+** WebAssembly has linear memory
+** This is a
