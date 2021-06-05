@@ -23,4 +23,10 @@
 * Data Types
 ** Assembly languages are made up of primitives that can be used as building blocks by higher level languages
 * Control Flow
+** WASM control flow is accomplished the same way everything else is within a stack machine - by pushing things onto, and popping things off of, the stack
+** example of an if statement
+***
+#+BEGIN_SRC 
+
+#+END_SRC
 * Linear Memory
