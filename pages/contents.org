@@ -25,6 +25,9 @@
 *** Understanding WebAssembly Architecture
 **** it's unique architecture makes it incredibly powerful, portable and efficient
 **** Stack Machines
+***** Laptops, desktops, mobile devices, virtual machines, even microcontrollers and embedded devices are register machines
+***** WebAssembly is a stack machine
+******
 **** Data Types
 **** Control Flow
 **** Linear Memory
