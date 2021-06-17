@@ -1,4 +1,4 @@
-# pubkb
+# pubkb 🌐🧠
 <br>my public knowledge base 
 <br>made with logseq
 
