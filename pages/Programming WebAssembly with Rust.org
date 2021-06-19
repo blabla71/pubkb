@@ -54,4 +54,4 @@
 ** WebAssembly has linear memory
 ** This is a contiguous block of bytes that can be declared internally within the module, exported out of a module, or imported from the host
 ** webassembly module can grow the linear memory block in increments called pages of 64KB if it fits more space
-**
+** while the host can read and write any linear memory given to a WASM module at any time, the Wasm module can never access any of the host's memory
