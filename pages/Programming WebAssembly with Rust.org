@@ -53,4 +53,5 @@
 ** There is also no garbage collection
 ** WebAssembly has linear memory
 ** This is a contiguous block of bytes that can be declared internally within the module, exported out of a module, or imported from the host
+** webassembly module can grow the linear memory block in increments called pages of 64KB if it fits more space
 **
