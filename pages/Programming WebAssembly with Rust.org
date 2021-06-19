@@ -59,3 +59,4 @@
 *** The host and module are sharing a block of linear memory and the host is choosing to execute bespoke JavaScript to translate the contents of that shared memory area into updates to the DOM
 *** This may change in future versions of WebAssembly
 ** Linear Memory is crucial to being able to create powerful applications with WebAssembly
+**
