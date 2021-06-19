@@ -56,4 +56,4 @@
 ** webassembly module can grow the linear memory block in increments called pages of 64KB if it fits more space
 ** while the host can read and write any linear memory given to a WASM module at any time, the Wasm module can never access any of the host's memory
 ** Direct DOM Access is an illusion
-***
+*** The host and module are sharing a block of linear memory and the host is choosing to execute bespoke JavaScript to translate the contents of that shared memory area into updates to the DOM
